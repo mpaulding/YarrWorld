@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Yarr World</string>
+    <string name="app_name">Yarr Mundo</string>
     <string name="alert_dialog_message">¡Yarr Mundo! </string>
-    <string name="alert_dialog_title">Un pirata habla ...</string>
+    <string name="alert_dialog_title">Un pirata habla #8230</string>
     <string name="pirate_image_text">Mascota del pirata por Orange Coast C</string>
     <string name="speak_button_text">Tiembla las Maderas </string>
     <string name="welcome_text">Bienvenido a CS273 - Desarrollo de Aplicaciones Móviles </string>
