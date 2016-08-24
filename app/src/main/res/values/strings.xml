@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yarr World</string>
+    <string name="pirate_image_text">Pirate mascot for Orange Coast College</string>
+    <string name="welcome_text">Welcome to CS 273 - Mobile Application Development</string>
+    <string name="speak_button_text">Shiver Me Timbers</string>
+    <string name="alert_dialog_title">A pirate speaks...</string>
+    <string name="alert_dialog_message">Yarr World!</string>
+</resources>
